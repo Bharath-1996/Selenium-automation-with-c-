@@ -1,0 +1,2 @@
+# Selenium-automation-with-c-
+In this project i used selenium webdriver and chrome driver in order to connect to the chrome, go to the login page of any site and filling the login details such as username and password by the use of its 'name' or 'id'(which can get from the html). by using the pagefactory method we can stay connected to that page and fill the next page with the values from the  custom methods (SeleniumSetMethods.cs)
